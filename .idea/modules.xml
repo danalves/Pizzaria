@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Pizzaria.iml" filepath="$PROJECT_DIR$/Pizzaria.iml" />
-      <module fileurl="file://C:\Users\danil\StudioProjects\Pizzaria\Pizzaria.iml" filepath="C:\Users\danil\StudioProjects\Pizzaria\Pizzaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\danil\StudioProjects\Pizzaria\app\app.iml" filepath="C:\Users\danil\StudioProjects\Pizzaria\app\app.iml" />
     </modules>
   </component>
 </project>
